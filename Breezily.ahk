@@ -1,6 +1,7 @@
 ;SETTINGS
 #InstallKeybdHook
-#SingleInstance Force
+#MaxThreadsPerHotkey, 2
+#MaxThreadsBuffer, On
 SetTitleMatchMode 2
 SendMode Input
 
